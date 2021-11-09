@@ -1,7 +1,7 @@
 #include
 int main()
 {
-printf("hello world");
+printf("HOLA MUNDO");
 printf("CAMBUIOS EN GITHUB");
 printf("cambios de master");
 printf("cambios en mi rama");
